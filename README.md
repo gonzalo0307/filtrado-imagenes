@@ -6,8 +6,11 @@ Aplicacion de escritorio en Python con interfaz grafica con tkinter para el proc
 
 
 Universidad Peruana de Ciencias Aplicadas (UPC)
+
 Curso: Matematica Computacional — Ciclo 4
-link del proyecto: [ github.com/gonzalo0307/filtrado-imagenes  ]
+
+link del proyecto: 
+[ github.com/gonzalo0307/filtrado-imagenes  ]
 
 Requisitos
 
